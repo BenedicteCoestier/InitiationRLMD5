@@ -1,5 +1,0 @@
-local({
-  r <- getOption("repos")
-  r["CRAN"] <- "https://packagemanager.posit.co/cran/__linux__/jammy/latest"
-  options(repos = r)
-})
